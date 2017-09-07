@@ -3,3 +3,4 @@ __pycache__
 *.csv
 *.pkl
 *.png
+.ipynb_checkpoints/
